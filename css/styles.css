@@ -1,5 +1,5 @@
-body{
-  background-color: lightblue;
+body.color{
+  background-color: #FFA841;
 }
 span.forgottenPassword{
   margin: 20px;
