@@ -1,0 +1,22 @@
+body{
+  background-color: lightblue;
+}
+span.forgottenPassword{
+  margin: 20px;
+  float: right;
+}
+input.fbButton{
+float: right;
+height: 15%;
+width: 15%;
+
+}
+.jumbotron {
+    background-color: #f4511e;
+    color: #fff;
+}
+.frame{
+
+  padding-right: 13%;
+
+}
