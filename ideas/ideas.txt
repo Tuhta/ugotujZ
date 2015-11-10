@@ -1,1 +1,4 @@
 * Photo slider do profili
+* wirutalna lodowka
+* wlasne profil ze swoja lodowka
+* dodawanie produktow
